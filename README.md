@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Personal Branding**
 
-- 🌱 I’m currently learning **Next**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **react**
 
