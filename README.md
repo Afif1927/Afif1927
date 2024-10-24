@@ -14,10 +14,6 @@
 
 - ⚡ Fun fact **I think I am funny😎**
 
-# 👋 Hi, I'm Afif – Top 1% of Software Development Talent
-
-### 🏆 Microsoft Certified Developer | Full Stack Developer | AI Enthusiast
-
 Welcome to my GitHub profile! I'm a professional full-stack developer with over 2+ years of experience building exceptional web and mobile apps. With a deep focus on backend development and AI solutions, I create user-friendly, highly functional applications that drive results for businesses across various industries.
 
 ## 🚀 What I do:
