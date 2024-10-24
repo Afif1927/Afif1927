@@ -14,6 +14,58 @@
 
 - ⚡ Fun fact **I think I am funny😎**
 
+# 👋 Hi, I'm Afif – Top 1% of Software Development Talent
+
+### 🏆 Microsoft Certified Developer | Full Stack Developer | AI Enthusiast
+
+Welcome to my GitHub profile! I'm a professional full-stack developer with over 2+ years of experience building exceptional web and mobile apps. With a deep focus on backend development and AI solutions, I create user-friendly, highly functional applications that drive results for businesses across various industries.
+
+## 🚀 What I do:
+
+- ⭐ **Top 1% in Software Development Talent**
+- 🏅 **Microsoft Certified Developer**
+- 🖥️ **30+ Web Apps Delivered**
+- 🧑‍💻 **Full Project Management – from Idea to Deployment**
+- 💬 **Clear Communication at Every Step of the Way**
+
+## 👨‍💻 My Expertise:
+
+- **Web Development:** JavaScript, Python, Node.js, Typescript, React, Next.js, HTML, CSS
+- **Mobile Development:** Android, iOS, Cordova, Flutter, React-Native
+- **Web Server Setup:** Nginx, Apache
+- **Cloud Platforms:** Azure, AWS, Google Cloud Platform
+
+## ❤️ What I love:
+
+I enjoy building web apps, SaaS solutions, and AI-powered applications that are not only functional but also packed with business logic that meets the needs of various industries. Whether it’s e-commerce, healthcare, finance, education, real estate, logistics, food delivery, or social media, I deliver high-quality solutions that prioritize **user experience**.
+
+## 💡 Why choose me?
+
+- ✅ **High Integrity & Responsibility**
+- ✅ **Excellent Communication Skills**
+- ✅ **Up-to-date with the Latest Technologies**
+- ✅ **Timely and Efficient Delivery**
+
+## 🔧 Technologies I use:
+
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS
+- **Backend:** Node.js, Python
+- **Mobile:** React Native, Flutter
+- **Cloud:** AWS, Azure, Google Cloud
+
+## 📈 Projects & Industries:
+
+I’ve maintained, developed, and launched multiple projects from scratch, handling both the front-end and back-end development. My work spans across industries such as **e-commerce, healthcare, education, real estate, logistics, and social media**.
+
+## 🌍 Let's Connect
+
+I'm always open to collaborating on exciting projects, whether it's building web or mobile apps, AI solutions, or cloud platforms. Let’s build something extraordinary together!
+
+👉 [Contact me on Upwork](https://www.upwork.com)
+
+---
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/afif muntasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afif muntasir" height="30" width="40" /></a>
