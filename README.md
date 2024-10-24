@@ -4,17 +4,17 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-- 🔭 I’m currently working on **My Personal Branding**
 
-- 🌱 I’m currently learning **Next.js**
+
+
+Welcome to my GitHub profile! I'm a professional full-stack developer with over 2+ years of experience building exceptional web and mobile apps. With a deep focus on backend development and AI solutions, I create user-friendly, highly functional applications that drive results for businesses across various industries.
+
+
+- 🔭 I’m currently working on **Upwork**
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **afifarfan808@gmail.com**
-
-- ⚡ Fun fact **I think I am funny😎**
-
-Welcome to my GitHub profile! I'm a professional full-stack developer with over 2+ years of experience building exceptional web and mobile apps. With a deep focus on backend development and AI solutions, I create user-friendly, highly functional applications that drive results for businesses across various industries.
 
 ## 🚀 What I do:
 
