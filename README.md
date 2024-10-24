@@ -7,7 +7,7 @@
 
 
 
-Welcome to my GitHub profile! I'm a professional full-stack developer with over 2+ years of experience building exceptional web and mobile apps. With a deep focus on backend development and AI solutions, I create user-friendly, highly functional applications that drive results for businesses across various industries.
+Welcome to my GitHub profile! I’m a front-end developer with 3+ years of experience building clean, responsive websites and mobile apps. My focus is on delivering user-friendly designs, ensuring cross-browser compatibility, and optimizing for performance. I create visually appealing, interactive applications that provide smooth functionality and meet business goals across various industries. Whether it's developing pixel-perfect layouts or enhancing user experience, I aim to deliver high-quality solutions that make an impact.
 
 
 - 🔭 I’m currently working on **Upwork**
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a professional full-stack developer with over 
 
 ## 👨‍💻 My Expertise:
 
-- **Web Development:** JavaScript, Python, Node.js, Typescript, React, Next.js, HTML, CSS
+- **Web Development:** JavaScript, Node.js, Typescript, React, Next.js, HTML, CSS
 - **Mobile Development:** Android, iOS, Cordova, Flutter, React-Native
 - **Web Server Setup:** Nginx, Apache
 - **Cloud Platforms:** Azure, AWS, Google Cloud Platform
@@ -44,20 +44,21 @@ I enjoy building web apps, SaaS solutions, and AI-powered applications that are 
 
 ## 🔧 Technologies I use:
 
-- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS
-- **Backend:** Node.js, Python
-- **Mobile:** React Native, Flutter
-- **Cloud:** AWS, Azure, Google Cloud
+- **Frontend:** React.js, Next.js, Redux Toolkit, Tailwind CSS, Bootstrap, Framer, jQuery, Figma
+- **Languages:** HTML, CSS, Sass, JavaScript 
+- **Backend:**  Express.js, Node.js  (Visionary)
+- **Databases:** MongoDB  (Visionary)
+- **Tools:** Git, GitHub, GitLab, Bitbucket
 
 ## 📈 Projects & Industries:
 
-I’ve maintained, developed, and launched multiple projects from scratch, handling both the front-end and back-end development. My work spans across industries such as **e-commerce, healthcare, education, real estate, logistics, and social media**.
+I’ve maintained, developed, and launched multiple projects from scratch, handling the entire front-end development process. My work spans across industries such as **e-commerce, healthcare, education, real estate, logistics, and social media**.
 
 ## 🌍 Let's Connect
 
-I'm always open to collaborating on exciting projects, whether it's building web or mobile apps, AI solutions, or cloud platforms. Let’s build something extraordinary together!
+I'm always open to collaborating on exciting projects, whether it's crafting responsive websites, developing intuitive web apps, or enhancing user experiences. Let’s create something extraordinary together!
 
-👉 [Contact me on Upwork](https://www.upwork.com)
+👉 [Hire me on Upwork](https://www.upwork.com/freelancers/~0126d22d3812ae653b)
 
 ---
 
