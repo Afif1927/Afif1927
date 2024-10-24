@@ -1,6 +1,6 @@
 ![Github banner](https://github.com/user-attachments/assets/fcbe105e-5dba-400d-b04b-40a761dd8bbc) 
 <h1 align="center">Hi 👋, I'm Mohammad Afif</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A PASSIONATE FRONTEND DEVELOPER FROM BANGLADESH</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a front-end developer with 3+ years of exper
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me [Hire me on Upwork](https://www.upwork.com/freelancers/~0126d22d3812ae653b)
+- 📫 [Hire me on Upwork](https://www.upwork.com/freelancers/~0126d22d3812ae653b)
 
 ## 🚀 What I do:
 
