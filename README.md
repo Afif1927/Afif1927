@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I’m a front-end developer with 3+ years of exper
 
 - 💬 Ask me about **react**
 
-- 📫 [Hire me on Upwork](https://www.upwork.com/freelancers/~0126d22d3812ae653b)
+👉 [Hire me on Upwork](https://www.upwork.com/freelancers/~0126d22d3812ae653b)
 
 ## 🚀 What I do:
 
