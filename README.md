@@ -14,21 +14,21 @@ Welcome to my GitHub profile! I’m a front-end developer with 3+ years of exper
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **afifarfan808@gmail.com**
+- 📫 How to reach me [Hire me on Upwork](https://www.upwork.com/freelancers/~0126d22d3812ae653b)
 
 ## 🚀 What I do:
 
-- ⭐ **Top 1% in Software Development Talent**
+- ⭐ **Top 1% in Front End Development Talent**
 - 🏅 **Microsoft Certified Developer**
 - 🖥️ **30+ Web Apps Delivered**
-- 🧑‍💻 **Full Project Management – from Idea to Deployment**
+- 🧑‍💻 **Expert in Front-End Project Management – from Concept to Launch**
 - 💬 **Clear Communication at Every Step of the Way**
 
 ## 👨‍💻 My Expertise:
 
 - **Web Development:** JavaScript, Node.js, Typescript, React, Next.js, HTML, CSS
-- **Mobile Development:** Android, iOS, Cordova, Flutter, React-Native
-- **Web Server Setup:** Nginx, Apache
+- **Mobile Development:** React-Native, Flutter
+- **ools & Technologies:**  Git, Tailwind CSS, Framer Motion
 - **Cloud Platforms:** Azure, AWS, Google Cloud Platform
 
 ## ❤️ What I love:
