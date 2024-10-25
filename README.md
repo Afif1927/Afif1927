@@ -1,4 +1,4 @@
-![Github banner](https://github.com/user-attachments/assets/fcbe105e-5dba-400d-b04b-40a761dd8bbc) 
+![Github banner](https://photos.fife.usercontent.google.com/pw/AP1GczM2PdUTUg7PD5p42_m5YsDQsz0hGpp7d3bYUGt8oDU3LeUTjrmttTPC=w1080-h270-s-no-gm?authuser=0) 
 <h1 align="center">Hi 👋, I'm Mohammad Afif</h1>
 <h3 align="center">A PASSIONATE FRONT-END DEVELOPER FROM BANGLADESH</h3>
 
