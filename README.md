@@ -1,4 +1,4 @@
-![Github banner](https://photos.app.goo.gl/5zxQZcVRhmKjtkne6) 
+![Github banner](https://github.com/Afif1927/personal_portfolio/raw/main/assets/to/Mohammad Afif (2).png) 
 <h1 align="center">Hi 👋, I'm Mohammad Afif</h1>
 <h3 align="center">A PASSIONATE FRONT-END DEVELOPER FROM BANGLADESH</h3>
 
