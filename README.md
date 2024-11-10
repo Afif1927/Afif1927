@@ -7,7 +7,7 @@
 
 
 
-Welcome to my GitHub profile! I’m a front-end developer with 3+ years of experience building clean, responsive websites and mobile apps. My focus is on delivering user-friendly designs, ensuring cross-browser compatibility, and optimizing for performance. I create visually appealing, interactive applications that provide smooth functionality and meet business goals across various industries. Whether it's developing pixel-perfect layouts or enhancing user experience, I aim to deliver high-quality solutions that make an impact.
+Welcome to my GitHub profile! I’m a front-end developer with 4+ years of experience building clean, responsive websites and mobile apps. My focus is on delivering user-friendly designs, ensuring cross-browser compatibility, and optimizing for performance. I create visually appealing, interactive applications that provide smooth functionality and meet business goals across various industries. Whether it's developing pixel-perfect layouts or enhancing user experience, I aim to deliver high-quality solutions that make an impact.
 
 
 - 🔭 I’m currently working on **Upwork**
